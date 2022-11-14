@@ -1,0 +1,16 @@
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+
+/HDRP/Library
+/HDRP/Logs
+/HDRP/Recordings
+/HDRP/Temp
+/HDRP/UserSettings
+
+/URP/Library
+/URP/Logs
+/URP/Recordings
+/URP/Temp
+/URP/UserSettings
