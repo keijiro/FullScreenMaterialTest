@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.55953, g: 0.5024187, b: 0.4596189, a: 1}
+  m_IndirectSpecularColor: {r: 0.279765, g: 0.25120935, b: 0.22980945, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -188,7 +188,7 @@ MonoBehaviour:
         clearFlags: 0
         passFoldout: 0
         m_Version: 0
-        fullscreenPassMaterial: {fileID: 2100000, guid: fcd1e0e4dad3f411886ebf3dd7c5a3d7, type: 2}
+        fullscreenPassMaterial: {fileID: -876546973899608171, guid: ea36f7f67b0384ad7bc133f8e2bc1683, type: 3}
         materialPassIndex: 0
         materialPassName: Custom Pass 0
         fetchColorBuffer: 0

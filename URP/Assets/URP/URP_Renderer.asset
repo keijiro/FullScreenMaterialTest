@@ -65,7 +65,7 @@ MonoBehaviour:
   m_Name: FullScreenPassRendererFeature
   m_EditorClassIdentifier: 
   m_Active: 1
-  passMaterial: {fileID: 2100000, guid: 36fb9214c8fdc4fbd8e6e33d46b6d098, type: 2}
-  injectionPoint: 550
+  passMaterial: {fileID: -876546973899608171, guid: 215670a46493d4ea4a78c581f2f08786, type: 3}
+  injectionPoint: 600
   requirements: 4
   passIndex: 0
